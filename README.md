@@ -12,7 +12,7 @@
 [http://localhost:3000](http://localhost:3000) \
 브라우저에서 위 주소로 열리게 됩니다.
 
-### 주소창을 바로 이동 가능
+### 또는 주소창에서 확인
 https://boyeonjang.github.io/Product-Review/
 
 ## 더 알아보기
