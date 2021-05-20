@@ -1,6 +1,7 @@
-# React 상품 리뷰
+# 상품 리뷰
 
-이 프로젝트는 bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+이 프로젝트는 React 기반으로 제작되었습니다. \
+[Create React App](https://github.com/facebook/create-react-app).
 
 ## 사용 가능한 스크립트
 
