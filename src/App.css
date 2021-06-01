@@ -8,9 +8,39 @@
   background-color: #C9D6DE;
   width: 50vw;
   height: 60vh;
+  border-radius: 2vw;
   /* 요소 정중앙 정렬 */
   position: absolute;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
+}
+
+.circle {
+  display: flex;
+  /* 위 오른쪽 아래 왼쪽 */
+  margin: 2% 0 0 3%;
+}
+
+.circle-red {
+  background-color: #E53A40;
+  width: 1.5vh;
+  height: 1.5vh;
+  border-radius: 50%;
+  margin-right: 2%;
+}
+
+.circle-yellow {
+  background-color: #EFDC05;
+  width: 1.5vh;
+  height: 1.5vh;
+  border-radius: 50%;
+  margin-right: 2%;
+}
+
+.circle-blue {
+  background-color: #30A9DE;
+  width: 1.5vh;
+  height: 1.5vh;
+  border-radius: 50%;
 }

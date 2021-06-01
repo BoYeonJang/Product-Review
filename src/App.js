@@ -5,7 +5,11 @@ function App() {
     <div className="App">
       <body className="body">
         <div className="window">
-          <div></div>
+          <div className="circle">
+            <div className="circle-red" />
+            <div className="circle-yellow" />
+            <div className="circle-blue" />
+          </div>
         </div>
       </body>
     </div>
