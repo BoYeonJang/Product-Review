@@ -3,3 +3,14 @@
   width: auto;
   height: 100vh;
 }
+
+.window {
+  background-color: #C9D6DE;
+  width: 50vw;
+  height: 60vh;
+  /* 요소 정중앙 정렬 */
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
