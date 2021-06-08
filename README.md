@@ -17,7 +17,7 @@ https://boyeonjang.github.io/Product-Review/
 
 ## 더 알아보기
 
-React로 공부한 것을 토이 프로젝트로 만들어보았습니다.
+React로 공부한 것을 토이 프로젝트로 만들어보았습니다. \
 버그 및 이슈 제보 uko010199@gmail.com
 
 # Product-Review
